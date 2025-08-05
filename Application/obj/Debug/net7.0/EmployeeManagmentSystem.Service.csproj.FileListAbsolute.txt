@@ -1,0 +1,17 @@
+D:\EmployeeManagmentSystem\Application\bin\Debug\net7.0\EmployeeManagmentSystem.Service.deps.json
+D:\EmployeeManagmentSystem\Application\bin\Debug\net7.0\EmployeeManagmentSystem.Service.dll
+D:\EmployeeManagmentSystem\Application\bin\Debug\net7.0\EmployeeManagmentSystem.Service.pdb
+D:\EmployeeManagmentSystem\Application\bin\Debug\net7.0\EmployeeManagmentSystem.Core.dll
+D:\EmployeeManagmentSystem\Application\bin\Debug\net7.0\EmployeeManagmentSystem.Infrastructure.dll
+D:\EmployeeManagmentSystem\Application\bin\Debug\net7.0\EmployeeManagmentSystem.Infrastructure.pdb
+D:\EmployeeManagmentSystem\Application\bin\Debug\net7.0\EmployeeManagmentSystem.Core.pdb
+D:\EmployeeManagmentSystem\Application\obj\Debug\net7.0\EmployeeManagmentSystem.Service.csproj.AssemblyReference.cache
+D:\EmployeeManagmentSystem\Application\obj\Debug\net7.0\EmployeeManagmentSystem.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\EmployeeManagmentSystem\Application\obj\Debug\net7.0\EmployeeManagmentSystem.Service.AssemblyInfoInputs.cache
+D:\EmployeeManagmentSystem\Application\obj\Debug\net7.0\EmployeeManagmentSystem.Service.AssemblyInfo.cs
+D:\EmployeeManagmentSystem\Application\obj\Debug\net7.0\EmployeeManagmentSystem.Service.csproj.CoreCompileInputs.cache
+D:\EmployeeManagmentSystem\Application\obj\Debug\net7.0\EmployeeManagmentSystem.Service.dll
+D:\EmployeeManagmentSystem\Application\obj\Debug\net7.0\refint\EmployeeManagmentSystem.Service.dll
+D:\EmployeeManagmentSystem\Application\obj\Debug\net7.0\EmployeeManagmentSystem.Service.pdb
+D:\EmployeeManagmentSystem\Application\obj\Debug\net7.0\ref\EmployeeManagmentSystem.Service.dll
+D:\EmployeeManagmentSystem\Application\obj\Debug\net7.0\Employee.672BBBC3.Up2Date

@@ -1,0 +1,11 @@
+D:\EmployeeManagmentSystem\Core\bin\Debug\net7.0\EmployeeManagmentSystem.Core.deps.json
+D:\EmployeeManagmentSystem\Core\bin\Debug\net7.0\EmployeeManagmentSystem.Core.dll
+D:\EmployeeManagmentSystem\Core\bin\Debug\net7.0\EmployeeManagmentSystem.Core.pdb
+D:\EmployeeManagmentSystem\Core\obj\Debug\net7.0\EmployeeManagmentSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\EmployeeManagmentSystem\Core\obj\Debug\net7.0\EmployeeManagmentSystem.Core.AssemblyInfoInputs.cache
+D:\EmployeeManagmentSystem\Core\obj\Debug\net7.0\EmployeeManagmentSystem.Core.AssemblyInfo.cs
+D:\EmployeeManagmentSystem\Core\obj\Debug\net7.0\EmployeeManagmentSystem.Core.csproj.CoreCompileInputs.cache
+D:\EmployeeManagmentSystem\Core\obj\Debug\net7.0\EmployeeManagmentSystem.Core.dll
+D:\EmployeeManagmentSystem\Core\obj\Debug\net7.0\refint\EmployeeManagmentSystem.Core.dll
+D:\EmployeeManagmentSystem\Core\obj\Debug\net7.0\EmployeeManagmentSystem.Core.pdb
+D:\EmployeeManagmentSystem\Core\obj\Debug\net7.0\ref\EmployeeManagmentSystem.Core.dll

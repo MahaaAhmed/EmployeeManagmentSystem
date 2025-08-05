@@ -1,0 +1,15 @@
+D:\EmployeeManagmentSystem\Infrastructure\bin\Debug\net7.0\EmployeeManagmentSystem.Infrastructure.deps.json
+D:\EmployeeManagmentSystem\Infrastructure\bin\Debug\net7.0\EmployeeManagmentSystem.Infrastructure.dll
+D:\EmployeeManagmentSystem\Infrastructure\bin\Debug\net7.0\EmployeeManagmentSystem.Infrastructure.pdb
+D:\EmployeeManagmentSystem\Infrastructure\bin\Debug\net7.0\EmployeeManagmentSystem.Core.dll
+D:\EmployeeManagmentSystem\Infrastructure\bin\Debug\net7.0\EmployeeManagmentSystem.Core.pdb
+D:\EmployeeManagmentSystem\Infrastructure\obj\Debug\net7.0\EmployeeManagmentSystem.Infrastructure.csproj.AssemblyReference.cache
+D:\EmployeeManagmentSystem\Infrastructure\obj\Debug\net7.0\EmployeeManagmentSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\EmployeeManagmentSystem\Infrastructure\obj\Debug\net7.0\EmployeeManagmentSystem.Infrastructure.AssemblyInfoInputs.cache
+D:\EmployeeManagmentSystem\Infrastructure\obj\Debug\net7.0\EmployeeManagmentSystem.Infrastructure.AssemblyInfo.cs
+D:\EmployeeManagmentSystem\Infrastructure\obj\Debug\net7.0\EmployeeManagmentSystem.Infrastructure.csproj.CoreCompileInputs.cache
+D:\EmployeeManagmentSystem\Infrastructure\obj\Debug\net7.0\EmployeeManagmentSystem.Infrastructure.dll
+D:\EmployeeManagmentSystem\Infrastructure\obj\Debug\net7.0\refint\EmployeeManagmentSystem.Infrastructure.dll
+D:\EmployeeManagmentSystem\Infrastructure\obj\Debug\net7.0\EmployeeManagmentSystem.Infrastructure.pdb
+D:\EmployeeManagmentSystem\Infrastructure\obj\Debug\net7.0\ref\EmployeeManagmentSystem.Infrastructure.dll
+D:\EmployeeManagmentSystem\Infrastructure\obj\Debug\net7.0\Employee.EB56A65A.Up2Date
